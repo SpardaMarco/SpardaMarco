@@ -23,6 +23,7 @@ I'm always interested in new opportunities! Collaboration, internships, work, yo
 ### Stats 
  
  [![SpardaMarco's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpardaMarco&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)   
+ ![](https://komarev.com/ghpvc/?username=SpardaMarco&label=Visits&color=b88ceb)
  
 __Contact__: 
 - marcoanpecosta@gmail.com  
