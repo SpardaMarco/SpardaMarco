@@ -11,16 +11,16 @@ I'm Marco Costa and I'm currently studying Informatic Engineering at FEUP in Por
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <br> 
 
-### Things that I like :
+# Things that I like :
 - Volleyball
 - Anime / Manga / Webtoons / Manhwa
 - Japanese Music
 - Play Games 
 - Programming [of course] 
 
-### I'm always interested in new opportunities! Collaboration, internships, work, you name it!
+# I'm always interested in new opportunities! Collaboration, internships, work, you name it!
 
-### Stats 
+# Stats 
  
  [![SpardaMarco's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpardaMarco&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)   
  
