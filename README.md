@@ -28,4 +28,3 @@ I'm always interested in new opportunities! Collaboration, internships, work, yo
  
 __Contact__: 
 - marcoanpecosta@gmail.com  
-- [Linkedin](https://www.linkedin.com/in/marcoanpecosta/)
