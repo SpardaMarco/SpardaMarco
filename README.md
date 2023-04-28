@@ -23,10 +23,8 @@ I'm always interested in new opportunities! Collaboration, internships, work, yo
 
 ### Stats 
  
- <div align="center">
  [![SpardaMarco's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpardaMarco&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
- [![SpardaMarco's GitHub MUL](https://github-readme-stats.vercel.app/api/top-langs/?username=SpardaMarco&layout=compact&langs_count=7&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
- </div>
+ [![SpardaMarco's GitHub MUL](https://github-readme-stats.vercel.app/api/top-langs/?username=SpardaMarco&hide_progress=true&layout=compact&langs_count=7&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
  ![](https://komarev.com/ghpvc/?username=SpardaMarco&label=Visits&color=b88ceb)
  
 __Contact__: 
